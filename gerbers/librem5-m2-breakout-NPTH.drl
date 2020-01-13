@@ -3,30 +3,11 @@ M48
 ; FORMAT={-:-/ absolute / metric / decimal}
 ; #@! TF.CreationDate,2020-01-13T02:26:37-05:00
 ; #@! TF.GenerationSoftware,Kicad,Pcbnew,5.1.4-3.fc30
-; #@! TF.FileFunction,Plated,1,2,PTH
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
 FMAT,2
 METRIC
-T1C0.400
-T2C1.000
-T3C3.500
 %
 G90
 G05
-T1
-X122.0Y-93.9
-X122.3Y-86.2
-X123.0Y-103.0
-X123.9Y-92.8
-X123.9Y-93.9
-X125.3Y-93.9
-X126.5Y-94.0
-X131.3Y-102.25
-T2
-X124.92Y-86.3
-X127.46Y-86.3
-X130.0Y-86.3
-X127.46Y-89.3
-T3
-X148.85Y-95.0
 T0
 M30
